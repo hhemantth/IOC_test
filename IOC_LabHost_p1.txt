@@ -1,4 +1,3 @@
-Domain
 aib-secure.online
 authaib.online
 365boi-secure.online
@@ -374,7 +373,6 @@ mobility-refunds.com
 ptsb.ie-secure24-open.info
 ptsb.ie-secure-open24.online
 ptsb.ie-open24-secure.com
-google.com
 permanenttsb-secureonline.com
 ptsb-secure.info
 permanenttsbonline-secure.com
